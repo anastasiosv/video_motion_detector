@@ -1,2 +1,2 @@
-# Video Motion Detector with OpenCV
-Video motion detector gathering feed from your Webcam, using Python and OpenCV in order to check the general movement on a space.
+# Video Motion Detector
+Video motion detector implemented with Python and OpenCV library which gathers feed from your webcam and checks the movement that exist in a place.
